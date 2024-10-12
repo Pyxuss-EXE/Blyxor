@@ -1,0 +1,814 @@
+[FBAN/Orca-Android;FBAV/407.0.0.16.114;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/253310653;FBCR/AXIS;FBMF/Xiaomi;FBBD/xiaomi;FBDV/SAMSUNG SM-C5000;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=7.1,width=2577,height=3373};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/422.0.0.44.204;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/253310653;FBCR/AXIS;FBMF/Xiaomi;FBBD/xiaomi;FBDV/OPPO R9sk;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=3.1,width=2365,height=2263};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/212.0.0.10.159;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/253310653;FBCR/WIFI;FBMF/Xiaomi;FBBD/xiaomi;FBDV/Alpha 3V;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=1.2,width=2356,height=3299};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/390.0.0.18.193;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/253310653;FBCR/WIFI;FBMF/Xiaomi;FBBD/xiaomi;FBDV/SM-G610F;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=4.1,width=1010,height=3366};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/460.0.0.50.217;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/253310653;FBCR/AXIS;FBMF/Xiaomi;FBBD/xiaomi;FBDV/ONEPLUS A6013;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=1.3,width=2826,height=2446};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/394.0.0.15.165;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/253310653;FBCR/WIFI;FBMF/Xiaomi;FBBD/xiaomi;FBDV/SM-G610F;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=2.2,width=2634,height=3826};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/292.0.0.16.259;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/253310653;FBCR/WIFI;FBMF/Xiaomi;FBBD/xiaomi;FBDV/LAVA LF9810_2GB;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=1.4,width=1897,height=3151};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/443.0.0.10.129;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/253310653;FBCR/AXIS;FBMF/Xiaomi;FBBD/xiaomi;FBDV/Moto C Plus;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=6.6,width=1872,height=3609};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/469.0.0.44.115;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/253310653;FBCR/AXIS;FBMF/Xiaomi;FBBD/xiaomi;FBDV/SM-N960U;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=3.6,width=2447,height=2779};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/487.0.0.1.197;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/253310653;FBCR/AXIS;FBMF/Xiaomi;FBBD/xiaomi;FBDV/Primo R5 Plus;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=7.7,width=2355,height=1760};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/407.0.0.43.258;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/253310653;FBCR/AXIS;FBMF/Xiaomi;FBBD/xiaomi;FBDV/Redmi 5 Plus;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=5.6,width=1720,height=2789};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/468.0.0.38.123;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/253310653;FBCR/AXIS;FBMF/Xiaomi;FBBD/xiaomi;FBDV/SM-E7000;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=4.4,width=1643,height=2285};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/222.0.0.28.204;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/253310653;FBCR/AXIS;FBMF/Xiaomi;FBBD/xiaomi;FBDV/LG-H630D;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=3.7,width=1122,height=1252};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/330.0.0.27.257;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/253310653;FBCR/AXIS;FBMF/Xiaomi;FBBD/xiaomi;FBDV/itel A21;FBSV/7;FBCA/arm64-v8a:null;FBDM/{density=2.2,width=1970,height=3230};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/237.0.0.50.297;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/253310653;FBCR/AXIS;FBMF/Xiaomi;FBBD/xiaomi;FBDV/Nokia 2;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=1.5,width=2061,height=1395};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/258.0.0.12.191;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/253310653;FBCR/WIFI;FBMF/Xiaomi;FBBD/xiaomi;FBDV/HUAWEI VNS-L31;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=1.7,width=2854,height=2419};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/215.0.0.8.189;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/253310653;FBCR/AXIS;FBMF/Xiaomi;FBBD/xiaomi;FBDV/RMX2030;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=3.2,width=2487,height=3223};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/457.0.0.5.257;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/253310653;FBCR/WIFI;FBMF/Xiaomi;FBBD/xiaomi;FBDV/SM-G610F;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=1.3,width=2168,height=2179};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/492.0.0.36.293;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/253310653;FBCR/WIFI;FBMF/Xiaomi;FBBD/xiaomi;FBDV/SM-J600G;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=5.7,width=2154,height=1657};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/233.0.0.32.194;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/253310653;FBCR/AXIS;FBMF/Xiaomi;FBBD/xiaomi;FBDV/OPPO R9sk;FBSV/4;FBCA/arm64-v8a:null;FBDM/{density=3.2,width=2101,height=1005};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/472.0.0.38.280;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/253310653;FBCR/AXIS;FBMF/Xiaomi;FBBD/xiaomi;FBDV/RMX2030;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=2.4,width=1033,height=2521};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/255.0.0.37.298;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/253310653;FBCR/WIFI;FBMF/Xiaomi;FBBD/xiaomi;FBDV/G61S;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=5.5,width=1573,height=1764};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/335.0.0.15.106;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/253310653;FBCR/AXIS;FBMF/Xiaomi;FBBD/xiaomi;FBDV/SM-N960U;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=6.5,width=2653,height=3003};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/312.0.0.12.238;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/253310653;FBCR/WIFI;FBMF/Xiaomi;FBBD/xiaomi;FBDV/Pixel Tablet;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=4.6,width=2033,height=2120};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/286.0.0.20.127;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/253310653;FBCR/AXIS;FBMF/Xiaomi;FBBD/xiaomi;FBDV/SAMSUNG SM-J210F;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=6.7,width=1249,height=3896};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/326.0.0.3.169;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/253310653;FBCR/AXIS;FBMF/Xiaomi;FBBD/xiaomi;FBDV/Primo R5 Plus;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=6.7,width=1042,height=3956};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/212.0.0.23.239;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/583699795;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/ART-L29;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=6.59,width=2822,height=3521};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/422.0.0.45.113;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/2247359393;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/SM-J600G;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=7.47,width=1323,height=3698};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/337.0.0.47.163;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/3060244209;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/G61S;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=5.3,width=2826,height=3606};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/213.0.0.48.258;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/1727004576;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/OPPO A83;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=3.29,width=2321,height=2466};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/317.0.0.40.218;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/2129278360;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/TECNO L8 Lite;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=7.95,width=1503,height=3838};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/272.0.0.50.299;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/1871254727;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/Alpha 3V;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=7.16,width=1787,height=2953};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/240.0.0.42.290;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/2522129775;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/SM-G610F;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=4.50,width=1382,height=1899};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/378.0.0.44.239;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/2865089827;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/RMX2030;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=6.85,width=2580,height=3662};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/495.0.0.41.205;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/3463052201;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/ASUS_X01AD;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=1.85,width=2752,height=2208};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/263.0.0.32.133;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/3509821709;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/Nokia 2;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=2.50,width=2401,height=3408};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/375.0.0.22.109;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/2344541437;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/SAMSUNG SM-J210F;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=4.8,width=2124,height=3757};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/428.0.0.24.285;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/3352512079;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/Mi Note 2;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=1.80,width=2969,height=2028};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/275.0.0.10.228;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/3463144341;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/TECNO L8 Lite;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=6.1,width=1492,height=1432};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/283.0.0.22.166;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/2651565772;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/SM-N960U;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=6.98,width=1248,height=1124};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/499.0.0.30.245;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/1469423716;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/HUAWEI VNS-L31;FBSV/7;FBCA/arm64-v8a:null;FBDM/{density=4.20,width=1142,height=1482};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/230.0.0.8.239;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/1943404513;FBCR/WIFI;FBMF/Hisense;FBBD/Hisense;FBDV/Alpha 3V;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=7.87,width=1667,height=1985};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/341.0.0.11.196;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/3617243205;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/SAMSUNG SM-J210F;FBSV/4;FBCA/arm64-v8a:null;FBDM/{density=6.41,width=1696,height=1431};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/392.0.0.4.171;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/2372488120;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/F92 E 5G;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=2.83,width=1547,height=3300};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/392.0.0.10.263;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/857279716;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/ASUS_X01AD;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=6.10,width=1042,height=1898};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/443.0.0.13.126;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/2487525764;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/itel A21;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=1.73,width=1625,height=1323};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/254.0.0.32.228;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/2687853228;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/SM-G610F;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=2.38,width=2130,height=2835};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/326.0.0.43.216;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/408320281;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/HUAWEI CAZ-AL10;FBSV/7;FBCA/arm64-v8a:null;FBDM/{density=1.39,width=1834,height=3613};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/266.0.0.21.101;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/2850612460;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/LG-X240;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=6.73,width=1145,height=3583};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/354.0.0.11.294;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/1964298213;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/Alpha 3V;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=7.4,width=1878,height=2720};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/234.0.0.19.164;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/2648539831;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/F92 E 5G;FBSV/4;FBCA/arm64-v8a:null;FBDM/{density=4.75,width=1431,height=2741};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/254.0.0.15.296;FBPN/com.facebook.orca;FBLC/en_US;FBBV/3999893686;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/Redmi 5 Plus;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=5.35,width=2679,height=2865};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/349.0.0.49.227;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/3963323108;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/LAVA LF9810_2GB;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=3.58,width=1244,height=3406};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/247.0.0.20.224;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/116010839;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/SM-N960U;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=1.17,width=2348,height=2710};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/370.0.0.30.158;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/2540943396;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/Moto C Plus;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=1.37,width=2893,height=3469};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/385.0.0.3.179;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/3105720374;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/TECNO L8 Lite;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=6.58,width=2992,height=2640};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/313.0.0.18.108;FBPN/com.facebook.orca;FBLC/en_US;FBBV/1750602073;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/itel A21;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=6.75,width=2735,height=3948};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/358.0.0.11.208;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/3726416546;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/Nokia 2;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=5.74,width=1960,height=3575};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/324.0.0.42.244;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/3622152935;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/HUAWEI CAZ-AL10;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=1.57,width=2324,height=2170};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/362.0.0.16.107;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/1107451265;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/TECNO L8 Lite;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=3.72,width=1421,height=2130};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/316.0.0.15.125;FBPN/com.facebook.orca;FBLC/en_US;FBBV/1153888991;FBCR/AXIS;FBMF/motorola;FBBD/motorola;FBDV/Primo R5 Plus;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=5.43,width=1157,height=1762};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/324.0.0.50.226;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/367400556;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/Lenovo A7010a48;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=3.89,width=2741,height=2935};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/284.0.0.3.213;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/2775629976;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/TECNO L8 Lite;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=5.89,width=1181,height=1062};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/234.0.0.6.118;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/2168171243;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/HPPL60A;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=6.59,width=1686,height=3502};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/302.0.0.1.249;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/1805785650;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/Alpha 3V;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=2.98,width=2632,height=2677};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/362.0.0.38.214;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/1943363949;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/itel A21;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=1.72,width=1521,height=3184};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/247.0.0.43.261;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/1283171344;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/LG-X240;FBSV/4;FBCA/arm64-v8a:null;FBDM/{density=1.86,width=1652,height=1780};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/252.0.0.20.123;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/2828407082;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/LG-H630D;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=7.19,width=1653,height=3250};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/279.0.0.3.273;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/3431484668;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/Redmi 4;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=4.46,width=1732,height=1736};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/492.0.0.5.281;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/2676331413;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/SM-G610F;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=4.53,width=1477,height=2045};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/477.0.0.27.151;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/3045115404;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/SM-E7000;FBSV/7;FBCA/arm64-v8a:null;FBDM/{density=7.47,width=1463,height=1259};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/323.0.0.42.105;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/2734782067;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/Mi Note 2;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=3.14,width=1502,height=1376};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/443.0.0.5.279;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/3720204501;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/ART-L29;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=1.93,width=2209,height=1689};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/295.0.0.41.207;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/1373146751;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/SAMSUNG SM-J210F;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=1.73,width=1475,height=2089};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/244.0.0.14.238;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/3919810739;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/HUAWEI CAZ-AL10;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=3.19,width=2597,height=3252};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/327.0.0.1.254;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/2494861479;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/Mi Note 2;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=1.6,width=2230,height=1587};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/241.0.0.42.286;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/868203667;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/Primo R5 Plus;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=7.86,width=2646,height=2022};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/270.0.0.44.237;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/721811766;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/LAVA LF9810_2GB;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=6.58,width=1245,height=3150};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/374.0.0.27.114;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/3810433450;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/Primo R5 Plus;FBSV/4;FBCA/arm64-v8a:null;FBDM/{density=2.12,width=1937,height=3068};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/338.0.0.49.199;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/2357788588;FBCR/AXIS;FBMF/motorola;FBBD/motorola;FBDV/Alpha 3V;FBSV/7;FBCA/arm64-v8a:null;FBDM/{density=5.63,width=1053,height=1023};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/343.0.0.37.201;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/2058143655;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/Redmi 5 Plus;FBSV/7;FBCA/arm64-v8a:null;FBDM/{density=4.84,width=1856,height=1326};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/380.0.0.44.221;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/3298782232;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/SM-E7000;FBSV/7;FBCA/arm64-v8a:null;FBDM/{density=7.98,width=2364,height=1148};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/275.0.0.7.140;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/2802755224;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/SM-J600G;FBSV/7;FBCA/arm64-v8a:null;FBDM/{density=4.20,width=1826,height=3549};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/304.0.0.39.298;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/1355758717;FBCR/AXIS;FBMF/motorola;FBBD/motorola;FBDV/G61S;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=5.1,width=1461,height=3190};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/371.0.0.4.171;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/1544051245;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/F92 E 5G;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=5.99,width=2721,height=2445};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/272.0.0.20.117;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/1728687852;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/MGA-LX3;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=2.20,width=2700,height=2732};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/247.0.0.20.179;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/232310155;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/G61S;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=7.48,width=1685,height=3386};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/379.0.0.27.216;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/2570417023;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/Redmi 4A;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=5.11,width=2212,height=2261};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/433.0.0.4.149;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/2625124775;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/SAMSUNG SM-J210F;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=5.20,width=1252,height=1907};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/481.0.0.23.260;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/2188558791;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/LG-X240;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=7.37,width=1188,height=1455};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/280.0.0.35.173;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/1612571447;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/OPPO R9sk;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=1.97,width=2716,height=3118};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/252.0.0.24.274;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/3466424769;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/HPPL60A;FBSV/7;FBCA/arm64-v8a:null;FBDM/{density=3.67,width=1065,height=2321};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/265.0.0.3.244;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/2812282976;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/Pixel Tablet;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=7.40,width=2939,height=3524};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/310.0.0.19.202;FBPN/com.facebook.orca;FBLC/en_US;FBBV/2267249033;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/Lenovo A7010a48;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=6.87,width=1772,height=3201};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/248.0.0.28.253;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/2902704557;FBCR/WIFI;FBMF/Hisense;FBBD/Hisense;FBDV/Lenovo A7010a48;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=3.69,width=2103,height=3595};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/277.0.0.48.289;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/3517861058;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/Redmi 5 Plus;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=5.49,width=2720,height=1758};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/451.0.0.15.120;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/2361268605;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/SM-E7000;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=6.86,width=1900,height=2673};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/202.0.0.1.270;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/776199811;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/G61S;FBSV/4;FBCA/arm64-v8a:null;FBDM/{density=2.4,width=2302,height=1507};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/405.0.0.18.186;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/3736462381;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/ART-L29;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=2.63,width=2060,height=1561};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/232.0.0.45.246;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/2773425662;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/Infinix X5515F;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=4.87,width=2657,height=3204};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/452.0.0.13.168;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/712131329;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/MGA-LX3;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=7.2,width=2890,height=3088};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/295.0.0.30.177;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/3495629636;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/Primo R5 Plus;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=7.34,width=1660,height=2981};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/232.0.0.25.276;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/905172191;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/MGA-LX3;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=2.28,width=2118,height=3563};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/236.0.0.29.197;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/3883577685;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/SM-G610F;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=4.90,width=1215,height=3617};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/490.0.0.47.112;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/761514548;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/RMX2030;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=6.3,width=1600,height=2075};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/381.0.0.40.169;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/3291374187;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/Redmi 4;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=2.16,width=2284,height=3602};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/217.0.0.35.115;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/599759296;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/OPPO R9sk;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=1.9,width=2278,height=1106};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/310.0.0.19.192;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/2333903035;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/OPPO R9sk;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=1.3,width=2187,height=2638};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/226.0.0.19.131;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/2475801902;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/ART-L29;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=1.21,width=2821,height=1526};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/407.0.0.20.250;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/1509376570;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/Redmi 5 Plus;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.44,width=2866,height=1449};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/227.0.0.23.284;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/2318808405;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/LG-X240;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.27,width=1869,height=2485};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/296.0.0.3.244;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/3744635337;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/itel A21;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=2.33,width=2680,height=2387};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/245.0.0.49.271;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/2148413249;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/itel A21;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=1.27,width=2184,height=1697};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/308.0.0.7.104;FBPN/com.facebook.orca;FBLC/en_US;FBBV/1227053814;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/HUAWEI CAZ-AL10;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=1.32,width=2843,height=3820};FB_FW/1;] FBBK/1'
+
+[FBAN/Orca-Android;FBAV/496.0.0.8.248;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/2921937527;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/OPPO A83;FBSV/4;FBCA/arm64-v8a:null;FBDM/{density=3.16,width=1723,height=1604};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; ASUS_X01AD Build/RKQ1.298102.1) [FBAN/Orca-Android;FBAV/483.0.0.1.113;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/3207767073;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/ASUS_X01AD;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=3.50,width=1588,height=1741};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; ART-L29 Build/OPM1.341976.6) [FBAN/Orca-Android;FBAV/277.0.0.3.197;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/851924194;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/ART-L29;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.27,width=2975,height=1957};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; MI NOTE LTE Build/PPR1.429371.9) [FBAN/Orca-Android;FBAV/442.0.0.27.122;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/904291131;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/MI NOTE LTE;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=3.36,width=2399,height=3612};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; G61S Build/SKQ1.441792.11) [FBAN/Orca-Android;FBAV/339.0.0.37.294;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/1635429235;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/G61S;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=3.21,width=2181,height=1275};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 9; SM-N960U Build/QP1A.929409.8) [FBAN/Orca-Android;FBAV/243.0.0.43.260;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/318167557;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/SM-N960U;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.46,width=2400,height=3495};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; Pixel Tablet Build/SP1A.386137.8) [FBAN/Orca-Android;FBAV/342.0.0.14.288;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/1764207079;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/Pixel Tablet;FBSV/3;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.46,width=1074,height=2866};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; LAVA LF9810_2GB Build/PKQ1.331796.19) [FBAN/Orca-Android;FBAV/450.0.0.41.177;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/3955249908;FBCR/AXIS;FBMF/motorola;FBBD/motorola;FBDV/LAVA LF9810_2GB;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.17,width=1643,height=3509};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; F92 E 5G Build/PKQ1.137434.14) [FBAN/Orca-Android;FBAV/335.0.0.16.157;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/2836082577;FBCR/AXIS;FBMF/motorola;FBBD/motorola;FBDV/F92 E 5G;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=3.50,width=1622,height=1139};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 4; Primo R5 Plus Build/TP1A.186804.9) [FBAN/Orca-Android;FBAV/268.0.0.31.289;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/370068309;FBCR/WIFI;FBMF/Hisense;FBBD/Hisense;FBDV/Primo R5 Plus;FBSV/7;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.24,width=2234,height=1591};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; LG-H630D Build/QKQ1.591912.12) [FBAN/Orca-Android;FBAV/218.0.0.18.285;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/3239619960;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/LG-H630D;FBSV/9;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.33,width=1592,height=1396};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; LAVA V5 M Build/RKQ1.302211.3) [FBAN/Orca-Android;FBAV/483.0.0.49.181;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/1277707310;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/LAVA V5 M;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=3.9,width=1424,height=3770};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 7; MI NOTE LTE Build/RKQ1.680488.14) [FBAN/Orca-Android;FBAV/302.0.0.5.181;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/1956923975;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/MI NOTE LTE;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.18,width=1942,height=2228};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; SAMSUNG SM-J210F Build/RKQ1.812543.15) [FBAN/Orca-Android;FBAV/443.0.0.24.110;FBPN/com.facebook.orca;FBLC/en_US;FBBV/2348150590;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/SAMSUNG SM-J210F;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.1,width=2776,height=1201};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; ASUS_X01AD Build/QKQ1.515190.6) [FBAN/Orca-Android;FBAV/372.0.0.28.299;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/510526264;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/ASUS_X01AD;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=1.42,width=2258,height=3633};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; SAMSUNG SM-C5000 Build/SP1A.250604.1) [FBAN/Orca-Android;FBAV/292.0.0.49.109;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/2822593277;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/SAMSUNG SM-C5000;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=1.21,width=2361,height=1899};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 4; Primo R5 Plus Build/RP1A.641910.5) [FBAN/Orca-Android;FBAV/340.0.0.35.108;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/1380563786;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/Primo R5 Plus;FBSV/8;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.33,width=2852,height=3078};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 6; SAMSUNG SM-J210F Build/RKQ1.890212.9) [FBAN/Orca-Android;FBAV/394.0.0.44.228;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/624167876;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/SAMSUNG SM-J210F;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=1.39,width=2066,height=2842};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 6; LAVA LF9810_2GB Build/SKQ1.512841.3) [FBAN/Orca-Android;FBAV/371.0.0.28.179;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/399849820;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/LAVA LF9810_2GB;FBSV/9;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.46,width=2090,height=1490};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; F92 E 5G Build/RP1A.256490.2) [FBAN/Orca-Android;FBAV/458.0.0.21.214;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/2178729215;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/F92 E 5G;FBSV/6;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.8,width=2048,height=2064};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; LENNY2 Build/PPR1.697178.14) [FBAN/Orca-Android;FBAV/351.0.0.29.288;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/3160626858;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/LENNY2;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=3.37,width=1683,height=1368};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; Primo EM2 Build/PKQ1.683563.0) [FBAN/Orca-Android;FBAV/486.0.0.36.295;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/3737569292;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/Primo EM2;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=1.30,width=2173,height=2224};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; MI NOTE LTE Build/SP1A.581811.2) [FBAN/Orca-Android;FBAV/493.0.0.18.239;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/2469006090;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/MI NOTE LTE;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.32,width=1171,height=2727};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 6; ELUGA_A3_Pro Build/QKQ1.632254.8) [FBAN/Orca-Android;FBAV/346.0.0.10.202;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/3516664752;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/ELUGA_A3_Pro;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=3.19,width=1449,height=1942};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; Lenovo A7010a48 Build/RKQ1.407476.20) [FBAN/Orca-Android;FBAV/204.0.0.25.140;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/721762404;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/Lenovo A7010a48;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=3.38,width=1600,height=1610};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 7; SAMSUNG SM-C5000 Build/TP1A.371268.15) [FBAN/Orca-Android;FBAV/337.0.0.34.285;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/3896823157;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/SAMSUNG SM-C5000;FBSV/6;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.2,width=1576,height=1894};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; Redmi 4A Build/SKQ1.667472.19) [FBAN/Orca-Android;FBAV/474.0.0.8.204;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/314830249;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/Redmi 4A;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=3.43,width=1569,height=3344};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 4; Pixel Tablet Build/PKQ1.589934.16) [FBAN/Orca-Android;FBAV/292.0.0.19.224;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/582337530;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/Pixel Tablet;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=1.2,width=2912,height=2730};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; LG-H630D Build/QKQ1.415583.11) [FBAN/Orca-Android;FBAV/269.0.0.20.218;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/3656123639;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/LG-H630D;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.15,width=2271,height=1389};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; ART-L29 Build/QP1A.704168.3) [FBAN/Orca-Android;FBAV/354.0.0.41.180;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/1266834180;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/ART-L29;FBSV/7;FBCA/arm64-v8a:null;FBDM/{density=3.23,width=2203,height=1620};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; RMX1945 Build/QKQ1.282652.9) [FBAN/Orca-Android;FBAV/441.0.0.46.164;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/2369942674;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/RMX1945;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=1.1,width=2401,height=3767};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 6; G61S Build/PKQ1.847911.1) [FBAN/Orca-Android;FBAV/427.0.0.12.273;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/191047052;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/G61S;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=2.18,width=2595,height=1718};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; RMX2030 Build/QP1A.414637.18) [FBAN/Orca-Android;FBAV/204.0.0.14.182;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/1317603772;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/RMX2030;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.22,width=2423,height=1656};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; SAMSUNG SM-J210F Build/PKQ1.404761.1) [FBAN/Orca-Android;FBAV/480.0.0.34.219;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/2985825481;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/SAMSUNG SM-J210F;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=2.34,width=1396,height=1023};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 9; G61S Build/QP1A.197070.3) [FBAN/Orca-Android;FBAV/384.0.0.23.152;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/3518185238;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/G61S;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.27,width=2408,height=2884};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; SM-J600G Build/RKQ1.456905.9) [FBAN/Orca-Android;FBAV/245.0.0.29.166;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/2629637165;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/SM-J600G;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.49,width=2466,height=1963};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 9; Alpha 3V Build/QP1A.896268.9) [FBAN/Orca-Android;FBAV/429.0.0.22.231;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/2864649303;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/Alpha 3V;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=2.24,width=2675,height=3419};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; GT-S6102 Build/OPM1.946627.19) [FBAN/Orca-Android;FBAV/344.0.0.26.235;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/950469076;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/GT-S6102;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=3.23,width=1315,height=1317};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; SM-N960U Build/RP1A.698784.11) [FBAN/Orca-Android;FBAV/293.0.0.22.134;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/2735223048;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/SM-N960U;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=1041,height=3341};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; QMobile i6 Metal ONE Build/QP1A.979983.13) [FBAN/Orca-Android;FBAV/291.0.0.35.288;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/3428851063;FBCR/AXIS;FBMF/motorola;FBBD/motorola;FBDV/QMobile i6 Metal ONE;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=1.48,width=1097,height=2166};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; Infinix X5515F Build/TP1A.758082.16) [FBAN/Orca-Android;FBAV/451.0.0.21.254;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/1857538769;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/Infinix X5515F;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.16,width=1273,height=2314};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; OPPO A83 Build/SKQ1.689809.11) [FBAN/Orca-Android;FBAV/354.0.0.8.274;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/1705268651;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/OPPO A83;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.20,width=1903,height=3331};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; RMX2030 Build/QKQ1.286481.6) [FBAN/Orca-Android;FBAV/460.0.0.18.139;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/2837049913;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/RMX2030;FBSV/8;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.32,width=2803,height=1816};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 4; LG-X240 Build/QP1A.172409.7) [FBAN/Orca-Android;FBAV/326.0.0.33.146;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/2428855526;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/LG-X240;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=1.47,width=2765,height=2957};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 6; TECNO L8 Lite Build/QKQ1.363056.10) [FBAN/Orca-Android;FBAV/454.0.0.10.180;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/2958382952;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/TECNO L8 Lite;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=3.25,width=2976,height=1774};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; LG-H630D Build/OPM1.942602.5) [FBAN/Orca-Android;FBAV/264.0.0.16.142;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/3265948292;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/LG-H630D;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=2.26,width=1108,height=2694};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; Redmi 5 Plus Build/RKQ1.537382.12) [FBAN/Orca-Android;FBAV/335.0.0.16.247;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/3378796533;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/Redmi 5 Plus;FBSV/7;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.2,width=2547,height=3504};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 14; Moto C Plus Build/PPR1.543838.13) [FBAN/Orca-Android;FBAV/262.0.0.30.140;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/1771759179;FBCR/WIFI;FBMF/Hisense;FBBD/Hisense;FBDV/Moto C Plus;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.47,width=1764,height=2500};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 9; SM-J600G Build/QP1A.125332.14) [FBAN/Orca-Android;FBAV/297.0.0.40.289;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/1091841566;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/SM-J600G;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.8,width=1922,height=1219};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; F92 E 5G Build/PKQ1.213164.19) [FBAN/Orca-Android;FBAV/374.0.0.38.298;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/2589731761;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/F92 E 5G;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.50,width=2134,height=2874};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; OPPO R9sk Build/SKQ1.888781.15) [FBAN/Orca-Android;FBAV/436.0.0.44.117;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/332791523;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/OPPO R9sk;FBSV/7;FBCA/arm64-v8a:null;FBDM/{density=1.5,width=2008,height=1286};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 7; Panasonic P77 Build/QP1A.471526.0) [FBAN/Orca-Android;FBAV/256.0.0.47.276;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/232713281;FBCR/WIFI;FBMF/Hisense;FBBD/Hisense;FBDV/Panasonic P77;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=3.15,width=2737,height=2654};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; HUAWEI VNS-L31 Build/QKQ1.239899.2) [FBAN/Orca-Android;FBAV/451.0.0.32.137;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/1043654617;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/HUAWEI VNS-L31;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.38,width=1706,height=2445};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 14; Panasonic P77 Build/RP1A.653522.15) [FBAN/Orca-Android;FBAV/293.0.0.12.242;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/3574295761;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/Panasonic P77;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=2999,height=2985};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; LAVA LF9810_2GB Build/OPM1.721716.5) [FBAN/Orca-Android;FBAV/306.0.0.41.210;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/374027843;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/LAVA LF9810_2GB;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=2.32,width=1492,height=2929};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 14; OPPO A83 Build/PPR1.464313.7) [FBAN/Orca-Android;FBAV/347.0.0.43.132;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/3026577175;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/OPPO A83;FBSV/3;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.25,width=1550,height=2825};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; Nokia 2 Build/QKQ1.113540.4) [FBAN/Orca-Android;FBAV/273.0.0.5.155;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/2496172724;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/Nokia 2;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.20,width=2674,height=3058};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; LENNY2 Build/RP1A.487616.14) [FBAN/Orca-Android;FBAV/346.0.0.38.262;FBPN/com.facebook.orca;FBLC/en_US;FBBV/1009080499;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/LENNY2;FBSV/6;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.40,width=1121,height=2068};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 4A Build/QKQ1.835563.13) [FBAN/Orca-Android;FBAV/438.0.0.48.124;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/467932765;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/Redmi 4A;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=1.29,width=2809,height=2698};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 9; RMX2030 Build/RP1A.657954.20) [FBAN/Orca-Android;FBAV/388.0.0.47.292;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/3165204768;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/RMX2030;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=3.47,width=2127,height=3891};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; SM-N960U Build/SP1A.857835.12) [FBAN/Orca-Android;FBAV/276.0.0.25.132;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/1137099878;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/SM-N960U;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=2.36,width=1460,height=3400};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; SM-E7000 Build/PPR1.559856.6) [FBAN/Orca-Android;FBAV/231.0.0.1.279;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/236462916;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/SM-E7000;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.40,width=2535,height=1817};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 4; SAMSUNG SM-C5000 Build/QKQ1.416376.20) [FBAN/Orca-Android;FBAV/460.0.0.7.105;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/1660914387;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/SAMSUNG SM-C5000;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=2.39,width=1863,height=1488};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 6; RMX2030 Build/SKQ1.788968.1) [FBAN/Orca-Android;FBAV/232.0.0.27.207;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/358730076;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/RMX2030;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.4,width=2319,height=3915};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; RX7 Mini Build/OPM1.778398.18) [FBAN/Orca-Android;FBAV/200.0.0.50.248;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/3976702246;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/RX7 Mini;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.27,width=1104,height=1345};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; itel A21 Build/PPR1.432893.11) [FBAN/Orca-Android;FBAV/237.0.0.22.214;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/2238877188;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/itel A21;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=1.41,width=1080,height=3297};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; DUB-LX1 Build/TP1A.793605.13) [FBAN/Orca-Android;FBAV/413.0.0.3.232;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/2409484740;FBCR/WIFI;FBMF/Hisense;FBBD/Hisense;FBDV/DUB-LX1;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=1.27,width=1248,height=2229};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 7; SM-N960U Build/OPM1.307193.19) [FBAN/Orca-Android;FBAV/388.0.0.20.135;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/3851722678;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/SM-N960U;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=3.0,width=2977,height=2749};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 9; ASUS_X01AD Build/OPM1.210061.6) [FBAN/Orca-Android;FBAV/467.0.0.3.206;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/2951171874;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/ASUS_X01AD;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=3.22,width=1575,height=2084};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; KFDOWI Build/OPM1.357672.16) [FBAN/Orca-Android;FBAV/452.0.0.26.142;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/2820539547;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/KFDOWI;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=1.8,width=2027,height=2030};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; MGA-LX3 Build/QKQ1.969653.4) [FBAN/Orca-Android;FBAV/251.0.0.29.290;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/739101502;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/MGA-LX3;FBSV/7;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.8,width=2522,height=2175};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 6; LAVA LF9810_2GB Build/QP1A.652318.2) [FBAN/Orca-Android;FBAV/319.0.0.48.228;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/1780938261;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/LAVA LF9810_2GB;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=1.39,width=2505,height=3045};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; RMX1945 Build/SP1A.208520.12) [FBAN/Orca-Android;FBAV/365.0.0.26.240;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/2277637748;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/RMX1945;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=2.34,width=2313,height=3463};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; Mi Note 2 Build/QKQ1.553259.15) [FBAN/Orca-Android;FBAV/236.0.0.36.156;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/2529633548;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/Mi Note 2;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.32,width=1581,height=1413};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; Pixel Tablet Build/OPM1.766488.2) [FBAN/Orca-Android;FBAV/426.0.0.35.151;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/2487525155;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/Pixel Tablet;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=3.5,width=1718,height=3702};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; MI NOTE LTE Build/RKQ1.290513.6) [FBAN/Orca-Android;FBAV/357.0.0.36.182;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/1352579931;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/MI NOTE LTE;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=3.13,width=1199,height=3982};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 9; itel A21 Build/RKQ1.765310.16) [FBAN/Orca-Android;FBAV/296.0.0.45.278;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/773474440;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/itel A21;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=1.19,width=1564,height=1699};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 14; Pixel Tablet Build/TP1A.393456.19) [FBAN/Orca-Android;FBAV/349.0.0.19.196;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/2314223384;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/Pixel Tablet;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=2.43,width=2415,height=2265};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; RMX2030 Build/PKQ1.481372.17) [FBAN/Orca-Android;FBAV/205.0.0.41.280;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/3379309321;FBCR/WIFI;FBMF/Hisense;FBBD/Hisense;FBDV/RMX2030;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=2.48,width=2373,height=3298};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; SAMSUNG SM-C5000 Build/SKQ1.203677.11) [FBAN/Orca-Android;FBAV/463.0.0.44.154;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/3257707231;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/SAMSUNG SM-C5000;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.45,width=1108,height=2848};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; KFDOWI Build/RKQ1.154179.2) [FBAN/Orca-Android;FBAV/329.0.0.42.226;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/2520880849;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/KFDOWI;FBSV/3;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.25,width=1016,height=2728};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; Redmi 5 Plus Build/RKQ1.839906.10) [FBAN/Orca-Android;FBAV/372.0.0.25.233;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/534974300;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/Redmi 5 Plus;FBSV/7;FBCA/arm64-v8a:null;FBDM/{density=2.23,width=1082,height=2216};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; OPPO R9sk Build/SP1A.825347.7) [FBAN/Orca-Android;FBAV/200.0.0.25.296;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/3856766791;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/OPPO R9sk;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.50,width=2448,height=2313};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 4; Lenovo A7010a48 Build/PKQ1.432753.8) [FBAN/Orca-Android;FBAV/472.0.0.35.198;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/3377807435;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/Lenovo A7010a48;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=1.45,width=2024,height=1989};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 6; LENNY2 Build/PKQ1.644341.5) [FBAN/Orca-Android;FBAV/489.0.0.11.201;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/2467052421;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/LENNY2;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=1.44,width=1092,height=3197};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; ELUGA_A3_Pro Build/OPM1.472537.3) [FBAN/Orca-Android;FBAV/337.0.0.13.229;FBPN/com.facebook.orca;FBLC/en_US;FBBV/1638530679;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/ELUGA_A3_Pro;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=1.0,width=1012,height=2499};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; LG-X240 Build/TP1A.478065.18) [FBAN/Orca-Android;FBAV/376.0.0.1.214;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/3240753542;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/LG-X240;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.22,width=2481,height=1755};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; LM-X440IM Build/RP1A.764748.7) [FBAN/Orca-Android;FBAV/465.0.0.6.232;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/2758764241;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/LM-X440IM;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.2,width=2337,height=2075};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; LG-X240 Build/RP1A.786375.14) [FBAN/Orca-Android;FBAV/407.0.0.4.114;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/3555013389;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/LG-X240;FBSV/6;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.40,width=1765,height=1925};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; LG-X240 Build/RKQ1.983031.11) [FBAN/Orca-Android;FBAV/471.0.0.41.233;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/2730568411;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/LG-X240;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.28,width=1355,height=3526};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 9; Mi Note 2 Build/PPR1.341312.13) [FBAN/Orca-Android;FBAV/496.0.0.31.199;FBPN/com.facebook.orca;FBLC/en_US;FBBV/1886127802;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/Mi Note 2;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.19,width=2418,height=2892};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; GT-S6102 Build/RP1A.411749.13) [FBAN/Orca-Android;FBAV/403.0.0.33.282;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/701722030;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/GT-S6102;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.1,width=2721,height=1383};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; MGA-LX3 Build/OPM1.475356.2) [FBAN/Orca-Android;FBAV/488.0.0.4.263;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/1866855325;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/MGA-LX3;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=1.9,width=1794,height=3338};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; DUB-LX1 Build/QKQ1.219552.7) [FBAN/Orca-Android;FBAV/222.0.0.12.143;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/135513559;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/DUB-LX1;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=3.25,width=2899,height=1233};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 4; Mi Note 2 Build/PPR1.326926.13) [FBAN/Orca-Android;FBAV/266.0.0.22.175;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/2922859224;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/Mi Note 2;FBSV/5;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.11,width=1233,height=3081};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 14; F92 E 5G Build/PPR1.739602.9) [FBAN/Orca-Android;FBAV/204.0.0.3.120;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/2406962810;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/F92 E 5G;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.33,width=2370,height=1724};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; F92 E 5G Build/SKQ1.567788.8) [FBAN/Orca-Android;FBAV/321.0.0.42.212;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/1447816045;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/F92 E 5G;FBSV/7;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.44,width=2117,height=1195};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; KFDOWI Build/OPM1.612235.5) [FBAN/Orca-Android;FBAV/457.0.0.22.136;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/3099958012;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/KFDOWI;FBSV/4;FBCA/arm64-v8a:null;FBDM/{density=3.33,width=1040,height=2763};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; Alpha 3V Build/PKQ1.574397.20) [FBAN/Orca-Android;FBAV/342.0.0.44.282;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/2721758584;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/Alpha 3V;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=3.8,width=2594,height=2698};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; Moto C Plus Build/SP1A.882896.13) [FBAN/Orca-Android;FBAV/388.0.0.46.290;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/1640679451;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/Moto C Plus;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.15,width=2512,height=1141};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; SAMSUNG SM-J210F Build/TP1A.688138.3) [FBAN/Orca-Android;FBAV/382.0.0.21.196;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/2985374128;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/SAMSUNG SM-J210F;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=1.30,width=2861,height=3986};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 6; LG-X240 Build/PKQ1.896203.7) [FBAN/Orca-Android;FBAV/391.0.0.17.163;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/3529874568;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/LG-X240;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=2.44,width=2399,height=3492};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 4; ONEPLUS A6013 Build/TP1A.485404.2) [FBAN/Orca-Android;FBAV/438.0.0.28.164;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/3269266682;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/ONEPLUS A6013;FBSV/9;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.35,width=1558,height=1407};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 14; G61S Build/OPM1.662485.2) [FBAN/Orca-Android;FBAV/363.0.0.35.208;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/729237688;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/G61S;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.27,width=1901,height=3592};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 4A Build/QP1A.624223.11) [FBAN/Orca-Android;FBAV/493.0.0.49.106;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/774814820;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/Redmi 4A;FBSV/7;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.8,width=1042,height=1898};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; INTEX AQUA LIONS E3 Build/PPR1.990285.6) [FBAN/Orca-Android;FBAV/422.0.0.47.136;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/2650106023;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/INTEX AQUA LIONS E3;FBSV/4;FBCA/arm64-v8a:null;FBDM/{density=3.31,width=2483,height=1783};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 9; LG-X240 Build/QKQ1.878440.13) [FBAN/Orca-Android;FBAV/200.0.0.29.184;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/3830952289;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/LG-X240;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=3.39,width=2160,height=3049};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 7; SM-N960U Build/TP1A.456135.8) [FBAN/Orca-Android;FBAV/399.0.0.27.158;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/1100454944;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/SM-N960U;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=1.38,width=1306,height=3851};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; HW-02L Build/SP1A.542782.19) [FBAN/Orca-Android;FBAV/204.0.0.23.264;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/2579987959;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/HW-02L;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=1.32,width=1329,height=1926};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; HPPL60A Build/SP1A.653166.17) [FBAN/Orca-Android;FBAV/379.0.0.20.286;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/3785583539;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/HPPL60A;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=3.28,width=2085,height=3970};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 9; Nokia 2 Build/QP1A.324227.9) [FBAN/Orca-Android;FBAV/433.0.0.12.156;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/2974694281;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/Nokia 2;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.50,width=2179,height=2296};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; OPPO R9sk Build/OPM1.295986.19) [FBAN/Orca-Android;FBAV/219.0.0.34.261;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/2846633666;FBCR/WIFI;FBMF/Hisense;FBBD/Hisense;FBDV/OPPO R9sk;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.37,width=2803,height=1079};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; SAMSUNG SM-C5000 Build/PKQ1.800826.4) [FBAN/Orca-Android;FBAV/331.0.0.29.113;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/1516626323;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/SAMSUNG SM-C5000;FBSV/9;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.8,width=2386,height=3874};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; SM-J600G Build/TP1A.176735.0) [FBAN/Orca-Android;FBAV/317.0.0.22.147;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/920377658;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/SM-J600G;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=1.3,width=2069,height=1528};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; G61S Build/PKQ1.165180.15) [FBAN/Orca-Android;FBAV/484.0.0.14.230;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/2385146143;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/G61S;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=1.32,width=2809,height=1651};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; Redmi 4A Build/SP1A.933442.11) [FBAN/Orca-Android;FBAV/267.0.0.7.223;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/1855822826;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/Redmi 4A;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=3.4,width=2430,height=3367};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; ART-L29 Build/QKQ1.268277.3) [FBAN/Orca-Android;FBAV/247.0.0.33.237;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/1201629479;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/ART-L29;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=2.14,width=2834,height=1073};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 14; Lenovo A7010a48 Build/RP1A.927168.6) [FBAN/Orca-Android;FBAV/486.0.0.15.146;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/3210561286;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/Lenovo A7010a48;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.35,width=1277,height=1968};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; RMX1945 Build/SKQ1.191292.17) [FBAN/Orca-Android;FBAV/391.0.0.44.142;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/832994104;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/RMX1945;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.3,width=2834,height=3810};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 6; ONEPLUS A6013 Build/SP1A.455189.3) [FBAN/Orca-Android;FBAV/403.0.0.47.298;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/3563857934;FBCR/AXIS;FBMF/motorola;FBBD/motorola;FBDV/ONEPLUS A6013;FBSV/6;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.29,width=1932,height=2472};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; LG-X240 Build/TP1A.949386.0) [FBAN/Orca-Android;FBAV/396.0.0.27.266;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/1620375120;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/LG-X240;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.9,width=2210,height=3666};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; Primo EM2 Build/OPM1.952140.20) [FBAN/Orca-Android;FBAV/366.0.0.42.267;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/3081579090;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/Primo EM2;FBSV/9;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.27,width=2282,height=3000};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; RX7 Mini Build/QP1A.284970.19) [FBAN/Orca-Android;FBAV/211.0.0.36.299;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/1348256539;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/RX7 Mini;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.29,width=2207,height=3470};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; SAMSUNG SM-J210F Build/SKQ1.828974.7) [FBAN/Orca-Android;FBAV/313.0.0.9.148;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/2096803125;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/SAMSUNG SM-J210F;FBSV/3;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.26,width=1216,height=2762};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; HPPL60A Build/PKQ1.285406.13) [FBAN/Orca-Android;FBAV/368.0.0.16.290;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/3010850646;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/HPPL60A;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=2.35,width=2527,height=2356};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; SAMSUNG SM-C5000 Build/SP1A.133351.20) [FBAN/Orca-Android;FBAV/417.0.0.10.140;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/1241338408;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/SAMSUNG SM-C5000;FBSV/8;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.23,width=2051,height=1958};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 7; G61S Build/PPR1.626912.4) [FBAN/Orca-Android;FBAV/259.0.0.5.173;FBPN/com.facebook.orca;FBLC/en_US;FBBV/2606750981;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/G61S;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=1.23,width=2334,height=3144};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; INTEX AQUA LIONS E3 Build/SP1A.211298.7) [FBAN/Orca-Android;FBAV/319.0.0.34.202;FBPN/com.facebook.orca;FBLC/en_US;FBBV/369542190;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/INTEX AQUA LIONS E3;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=3.44,width=1398,height=3977};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 6; Pixel Tablet Build/SKQ1.595314.8) [FBAN/Orca-Android;FBAV/218.0.0.3.232;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/1203625620;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/Pixel Tablet;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.30,width=1976,height=3666};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 14; Infinix X5515F Build/RP1A.988841.9) [FBAN/Orca-Android;FBAV/419.0.0.42.231;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/3066929750;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/Infinix X5515F;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=2.1,width=2997,height=1504};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; Nokia 2 Build/QKQ1.782863.5) [FBAN/Orca-Android;FBAV/444.0.0.42.290;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/501403072;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/Nokia 2;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=1.32,width=2813,height=1054};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; GT-S6102 Build/TP1A.413799.10) [FBAN/Orca-Android;FBAV/390.0.0.2.169;FBPN/com.facebook.orca;FBLC/en_US;FBBV/304606439;FBCR/AXIS;FBMF/motorola;FBBD/motorola;FBDV/GT-S6102;FBSV/5;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.15,width=2141,height=3447};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; RMX2030 Build/RKQ1.765566.9) [FBAN/Orca-Android;FBAV/244.0.0.19.290;FBPN/com.facebook.orca;FBLC/en_US;FBBV/3991195954;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/RMX2030;FBSV/7;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.19,width=1374,height=1841};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; Primo EM2 Build/QKQ1.255427.12) [FBAN/Orca-Android;FBAV/310.0.0.22.111;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/2529253709;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/Primo EM2;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.47,width=2376,height=2604};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 6; RMX1945 Build/QKQ1.738851.19) [FBAN/Orca-Android;FBAV/368.0.0.15.110;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/560837068;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/RMX1945;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=1.36,width=2991,height=3067};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; OPPO A83 Build/OPM1.927953.6) [FBAN/Orca-Android;FBAV/376.0.0.13.269;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/514032173;FBCR/AXIS;FBMF/motorola;FBBD/motorola;FBDV/OPPO A83;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.30,width=2208,height=1848};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; Panasonic P77 Build/OPM1.941332.9) [FBAN/Orca-Android;FBAV/261.0.0.15.241;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/3640952014;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/Panasonic P77;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.50,width=1247,height=3230};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; SM-N960U Build/TP1A.514340.14) [FBAN/Orca-Android;FBAV/421.0.0.21.125;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/1474109148;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/SM-N960U;FBSV/4;FBCA/arm64-v8a:null;FBDM/{density=1.26,width=2267,height=1612};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; OPPO R9sk Build/QKQ1.161731.17) [FBAN/Orca-Android;FBAV/438.0.0.45.129;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/3322061174;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/OPPO R9sk;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=1.38,width=1541,height=3101};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 7; SAMSUNG SM-J210F Build/RP1A.148887.11) [FBAN/Orca-Android;FBAV/251.0.0.20.138;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/309330479;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/SAMSUNG SM-J210F;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=2.37,width=2642,height=1550};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; ART-L29 Build/OPM1.706127.13) [FBAN/Orca-Android;FBAV/206.0.0.34.159;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/2053313739;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/ART-L29;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=3.11,width=2769,height=2369};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; Nokia 2 Build/QKQ1.570157.16) [FBAN/Orca-Android;FBAV/367.0.0.5.252;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/2478723821;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/Nokia 2;FBSV/3;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.27,width=2701,height=1675};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; QMobile i6 Metal ONE Build/SKQ1.198267.9) [FBAN/Orca-Android;FBAV/275.0.0.13.110;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/2338884988;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/QMobile i6 Metal ONE;FBSV/7;FBCA/arm64-v8a:null;FBDM/{density=1.8,width=1865,height=2372};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; Lenovo A7010a48 Build/OPM1.637342.11) [FBAN/Orca-Android;FBAV/439.0.0.27.244;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/2421051433;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/Lenovo A7010a48;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=1.38,width=1483,height=3959};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 14; KFDOWI Build/PPR1.206527.6) [FBAN/Orca-Android;FBAV/469.0.0.40.253;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/1486728942;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/KFDOWI;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.32,width=1298,height=1125};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; LG-X240 Build/PKQ1.363528.19) [FBAN/Orca-Android;FBAV/323.0.0.10.225;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/684662502;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/LG-X240;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=2.33,width=1840,height=1331};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; Redmi 5 Plus Build/QP1A.655660.0) [FBAN/Orca-Android;FBAV/326.0.0.19.265;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/292018723;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/Redmi 5 Plus;FBSV/5;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.45,width=1183,height=1097};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; ELUGA_A3_Pro Build/TP1A.644705.10) [FBAN/Orca-Android;FBAV/411.0.0.27.200;FBPN/com.facebook.orca;FBLC/en_US;FBBV/1581190156;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/ELUGA_A3_Pro;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.21,width=2602,height=3422};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; RX7 Mini Build/QP1A.999881.17) [FBAN/Orca-Android;FBAV/431.0.0.26.167;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/205592376;FBCR/WIFI;FBMF/Hisense;FBBD/Hisense;FBDV/RX7 Mini;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.12,width=2893,height=1967};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 4; ASUS_X01AD Build/SKQ1.769548.0) [FBAN/Orca-Android;FBAV/315.0.0.22.252;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/2413525956;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/ASUS_X01AD;FBSV/3;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=2262,height=3364};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; RMX1945 Build/RP1A.323745.10) [FBAN/Orca-Android;FBAV/384.0.0.12.288;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/2097187148;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/RMX1945;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=2.47,width=1119,height=2248};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; MI NOTE LTE Build/OPM1.521902.10) [FBAN/Orca-Android;FBAV/422.0.0.16.288;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/956992890;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/MI NOTE LTE;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=2.41,width=2742,height=1398};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 7; Redmi 5 Plus Build/TP1A.537123.8) [FBAN/Orca-Android;FBAV/392.0.0.40.156;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/1331233147;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/Redmi 5 Plus;FBSV/7;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.8,width=2389,height=2817};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 14; RMX1945 Build/QKQ1.930272.19) [FBAN/Orca-Android;FBAV/363.0.0.18.246;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/3291385381;FBCR/AXIS;FBMF/motorola;FBBD/motorola;FBDV/RMX1945;FBSV/6;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.11,width=1528,height=2111};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; RMX1945 Build/PPR1.860039.0) [FBAN/Orca-Android;FBAV/285.0.0.42.207;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/2982076736;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/RMX1945;FBSV/8;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.47,width=2099,height=3010};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; SAMSUNG SM-C5000 Build/OPM1.942504.7) [FBAN/Orca-Android;FBAV/412.0.0.36.103;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/560297147;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/SAMSUNG SM-C5000;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=2.8,width=2262,height=1125};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 4; KFDOWI Build/PPR1.194927.16) [FBAN/Orca-Android;FBAV/362.0.0.22.102;FBPN/com.facebook.orca;FBLC/en_US;FBBV/3355843617;FBCR/AXIS;FBMF/motorola;FBBD/motorola;FBDV/KFDOWI;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.43,width=2921,height=1769};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; RX7 Mini Build/SP1A.126995.14) [FBAN/Orca-Android;FBAV/299.0.0.50.171;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/3892989586;FBCR/WIFI;FBMF/Hisense;FBBD/Hisense;FBDV/RX7 Mini;FBSV/3;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.36,width=2669,height=1729};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; Redmi 4 Build/QP1A.415180.11) [FBAN/Orca-Android;FBAV/224.0.0.28.201;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/1408481852;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/Redmi 4;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.23,width=2140,height=3494};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; ASUS_X01AD Build/RKQ1.549988.1) [FBAN/Orca-Android;FBAV/283.0.0.4.144;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/939503306;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/ASUS_X01AD;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.32,width=2660,height=1090};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; SM-E7000 Build/PKQ1.423760.2) [FBAN/Orca-Android;FBAV/446.0.0.40.218;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/2517463785;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/SM-E7000;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=1.33,width=2056,height=2343};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; QMobile i6 Metal ONE Build/RP1A.148239.7) [FBAN/Orca-Android;FBAV/287.0.0.42.221;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/375071488;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/QMobile i6 Metal ONE;FBSV/9;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.7,width=2698,height=1444};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 7; Redmi 4A Build/SP1A.685511.20) [FBAN/Orca-Android;FBAV/385.0.0.34.227;FBPN/com.facebook.orca;FBLC/en_US;FBBV/3404400254;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/Redmi 4A;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=1.29,width=2661,height=1573};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; Pixel Tablet Build/QKQ1.922648.7) [FBAN/Orca-Android;FBAV/245.0.0.11.192;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/2611953288;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/Pixel Tablet;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=2.4,width=1838,height=3755};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 9; OPPO A83 Build/PPR1.418018.7) [FBAN/Orca-Android;FBAV/278.0.0.50.147;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/166887043;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/OPPO A83;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.39,width=2317,height=3148};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; Primo EM2 Build/RP1A.665175.1) [FBAN/Orca-Android;FBAV/379.0.0.6.111;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/1408413707;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/Primo EM2;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=1.16,width=2414,height=1115};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 6; SM-J600G Build/PPR1.704429.10) [FBAN/Orca-Android;FBAV/320.0.0.13.123;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/114715022;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/SM-J600G;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=1.24,width=2499,height=1431};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; SM-E7000 Build/OPM1.122210.19) [FBAN/Orca-Android;FBAV/367.0.0.23.223;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/3428947090;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/SM-E7000;FBSV/3;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.49,width=1486,height=2209};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; Panasonic P77 Build/RP1A.325903.3) [FBAN/Orca-Android;FBAV/499.0.0.2.281;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/2301910531;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/Panasonic P77;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=3.10,width=2496,height=2088};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; SAMSUNG SM-C5000 Build/RP1A.984411.7) [FBAN/Orca-Android;FBAV/276.0.0.38.100;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/1891856739;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/SAMSUNG SM-C5000;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=2.4,width=1203,height=1633};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; ONEPLUS A6013 Build/OPM1.228656.19) [FBAN/Orca-Android;FBAV/386.0.0.2.102;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/887117794;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/ONEPLUS A6013;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=1.17,width=1102,height=3820};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 14; LAVA V5 M Build/QKQ1.118249.16) [FBAN/Orca-Android;FBAV/285.0.0.25.267;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/2344113963;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/LAVA V5 M;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=3.11,width=2345,height=3773};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; RMX2030 Build/PKQ1.227031.17) [FBAN/Orca-Android;FBAV/287.0.0.24.286;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/2363098498;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/RMX2030;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.40,width=2062,height=3470};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; ONEPLUS A6013 Build/TP1A.495894.18) [FBAN/Orca-Android;FBAV/262.0.0.4.138;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/3815218549;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/ONEPLUS A6013;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=1.43,width=1489,height=2715};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 14; MI NOTE LTE Build/QP1A.965210.19) [FBAN/Orca-Android;FBAV/414.0.0.18.101;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/1770511127;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/MI NOTE LTE;FBSV/7;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.50,width=2538,height=2820};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; MI NOTE LTE Build/QP1A.892857.8) [FBAN/Orca-Android;FBAV/231.0.0.36.208;FBPN/com.facebook.orca;FBLC/en_US;FBBV/1382800475;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/MI NOTE LTE;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.3,width=1295,height=2303};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; LENNY2 Build/SP1A.460346.11) [FBAN/Orca-Android;FBAV/411.0.0.44.216;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/1657972216;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/LENNY2;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.48,width=1619,height=2184};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; HW-02L Build/TP1A.184772.4) [FBAN/Orca-Android;FBAV/491.0.0.41.243;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/1036466503;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/HW-02L;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=1.4,width=2192,height=1498};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; Primo R5 Plus Build/SP1A.276357.6) [FBAN/Orca-Android;FBAV/486.0.0.8.253;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/3153017154;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/Primo R5 Plus;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.17,width=1255,height=2003};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; LAVA V5 M Build/QP1A.209791.4) [FBAN/Orca-Android;FBAV/261.0.0.41.118;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/2930877117;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/LAVA V5 M;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=2.5,width=1163,height=1181};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; Redmi 4A Build/PKQ1.277138.12) [FBAN/Orca-Android;FBAV/283.0.0.37.228;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/2471183049;FBCR/AXIS;FBMF/motorola;FBBD/motorola;FBDV/Redmi 4A;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=3.30,width=2312,height=1846};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 6; HUAWEI VNS-L31 Build/SP1A.915135.16) [FBAN/Orca-Android;FBAV/490.0.0.35.213;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/484976864;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/HUAWEI VNS-L31;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.25,width=1203,height=1790};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 4; Moto C Plus Build/QKQ1.922548.14) [FBAN/Orca-Android;FBAV/412.0.0.49.246;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/2931059913;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/Moto C Plus;FBSV/8;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.47,width=2581,height=1914};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; LENNY2 Build/OPM1.553158.1) [FBAN/Orca-Android;FBAV/224.0.0.4.145;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/893615214;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/LENNY2;FBSV/5;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.41,width=2262,height=3518};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; OPPO R9sk Build/QP1A.918159.9) [FBAN/Orca-Android;FBAV/406.0.0.21.225;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/1283183223;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/OPPO R9sk;FBSV/6;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.15,width=2317,height=1837};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; TECNO L8 Lite Build/SP1A.470106.15) [FBAN/Orca-Android;FBAV/262.0.0.32.186;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/3478473647;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/TECNO L8 Lite;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=2.35,width=1505,height=2566};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; ART-L29 Build/SKQ1.678268.14) [FBAN/Orca-Android;FBAV/360.0.0.41.161;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/1412529964;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/ART-L29;FBSV/6;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.25,width=1828,height=2977};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; LM-X440IM Build/RKQ1.848508.16) [FBAN/Orca-Android;FBAV/437.0.0.14.205;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/734933474;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/LM-X440IM;FBSV/8;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.5,width=1127,height=1956};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; SM-E7000 Build/OPM1.275192.0) [FBAN/Orca-Android;FBAV/366.0.0.43.284;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/423927972;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/SM-E7000;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=1.19,width=2790,height=2322};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; HUAWEI CAZ-AL10 Build/RP1A.859354.17) [FBAN/Orca-Android;FBAV/431.0.0.45.227;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/396891340;FBCR/AXIS;FBMF/motorola;FBBD/motorola;FBDV/HUAWEI CAZ-AL10;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=3.32,width=1528,height=1164};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; Redmi 4A Build/SKQ1.725454.16) [FBAN/Orca-Android;FBAV/209.0.0.2.267;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/3067052566;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/Redmi 4A;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=3.42,width=2611,height=2610};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; HPPL60A Build/RP1A.465706.2) [FBAN/Orca-Android;FBAV/438.0.0.5.99;FBPN/com.facebook.orca;FBLC/en_US;FBBV/3436350553;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/HPPL60A;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.14,width=1348,height=1804};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 7; Redmi 5 Plus Build/PPR1.467829.8) [FBAN/Orca-Android;FBAV/403.0.0.50.176;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/1005556933;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/Redmi 5 Plus;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.22,width=1112,height=2705};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; MGA-LX3 Build/PPR1.670881.17) [FBAN/Orca-Android;FBAV/359.0.0.48.136;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/1378149488;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/MGA-LX3;FBSV/7;FBCA/arm64-v8a:null;FBDM/{density=1.11,width=1132,height=3797};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; LG-X240 Build/SP1A.422975.17) [FBAN/Orca-Android;FBAV/238.0.0.1.131;FBPN/com.facebook.orca;FBLC/en_US;FBBV/2733013439;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/LG-X240;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=3.39,width=2428,height=3647};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; SAMSUNG SM-J210F Build/SP1A.375172.9) [FBAN/Orca-Android;FBAV/423.0.0.25.278;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/3211870913;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/SAMSUNG SM-J210F;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.43,width=2587,height=3629};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; itel A21 Build/RKQ1.700741.10) [FBAN/Orca-Android;FBAV/488.0.0.49.223;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/2814760413;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/itel A21;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=3.21,width=2652,height=1346};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; GT-S6102 Build/SP1A.573502.19) [FBAN/Orca-Android;FBAV/334.0.0.33.109;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/458742923;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/GT-S6102;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=1.12,width=1380,height=2114};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; RMX2030 Build/QKQ1.933202.16) [FBAN/Orca-Android;FBAV/393.0.0.20.263;FBPN/com.facebook.orca;FBLC/en_US;FBBV/3200400564;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/RMX2030;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=1.15,width=1060,height=1093};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; Panasonic P77 Build/SKQ1.555496.5) [FBAN/Orca-Android;FBAV/375.0.0.45.180;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/2415931659;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/Panasonic P77;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.46,width=1943,height=1236};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; Nokia 2 Build/SKQ1.651134.20) [FBAN/Orca-Android;FBAV/402.0.0.22.130;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/1329653199;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/Nokia 2;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=1.17,width=2442,height=3143};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; G61S Build/TP1A.769179.0) [FBAN/Orca-Android;FBAV/442.0.0.23.135;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/3356082670;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/G61S;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.49,width=1500,height=1590};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 4; Primo EM2 Build/OPM1.272305.0) [FBAN/Orca-Android;FBAV/428.0.0.27.288;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/2414215043;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/Primo EM2;FBSV/8;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.44,width=2838,height=1421};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; HUAWEI CAZ-AL10 Build/TP1A.454470.0) [FBAN/Orca-Android;FBAV/208.0.0.36.213;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/2470171146;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/HUAWEI CAZ-AL10;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.25,width=2275,height=1728};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; OPPO R9sk Build/QKQ1.525738.7) [FBAN/Orca-Android;FBAV/319.0.0.48.297;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/950911253;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/OPPO R9sk;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.36,width=1377,height=2171};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; F92 E 5G Build/RP1A.499591.6) [FBAN/Orca-Android;FBAV/311.0.0.35.111;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/1316195209;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/F92 E 5G;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=1621,height=3719};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 9; Primo R5 Plus Build/OPM1.886068.2) [FBAN/Orca-Android;FBAV/279.0.0.44.99;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/1537832231;FBCR/WIFI;FBMF/Hisense;FBBD/Hisense;FBDV/Primo R5 Plus;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=2.19,width=1209,height=1069};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; MI NOTE LTE Build/RKQ1.850764.7) [FBAN/Orca-Android;FBAV/286.0.0.28.227;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/1767973492;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/MI NOTE LTE;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.48,width=1121,height=2006};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; LAVA LF9810_2GB Build/PKQ1.868831.1) [FBAN/Orca-Android;FBAV/356.0.0.48.182;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/342699662;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/LAVA LF9810_2GB;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=3.24,width=1041,height=2866};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; MGA-LX3 Build/RP1A.273462.13) [FBAN/Orca-Android;FBAV/413.0.0.25.160;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/463876756;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/MGA-LX3;FBSV/7;FBCA/arm64-v8a:null;FBDM/{density=2.3,width=1485,height=1474};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; Infinix X5515F Build/OPM1.680267.15) [FBAN/Orca-Android;FBAV/199.0.0.12.195;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/279475106;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/Infinix X5515F;FBSV/6;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.13,width=1174,height=3827};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; OPPO R9sk Build/TP1A.545468.12) [FBAN/Orca-Android;FBAV/311.0.0.31.244;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/1317784486;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/OPPO R9sk;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.9,width=2731,height=3546};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; Redmi 4 Build/RP1A.319885.8) [FBAN/Orca-Android;FBAV/494.0.0.24.188;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/1226314048;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/Redmi 4;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.50,width=1411,height=3075};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 14; Redmi 4 Build/RKQ1.550003.20) [FBAN/Orca-Android;FBAV/402.0.0.9.263;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/561026649;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/Redmi 4;FBSV/7;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.21,width=1427,height=3737};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 9; RMX1945 Build/TP1A.174817.0) [FBAN/Orca-Android;FBAV/445.0.0.47.174;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/365213321;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/RMX1945;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.9,width=2050,height=3554};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; Lenovo A7010a48 Build/PPR1.926283.6) [FBAN/Orca-Android;FBAV/491.0.0.12.212;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/2538348369;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/Lenovo A7010a48;FBSV/3;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.21,width=2179,height=1406};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; Mi Note 2 Build/QKQ1.397562.18) [FBAN/Orca-Android;FBAV/334.0.0.23.289;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/3880043988;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/Mi Note 2;FBSV/3;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.8,width=1213,height=2579};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; LENNY2 Build/PKQ1.153829.8) [FBAN/Orca-Android;FBAV/320.0.0.3.110;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/676788527;FBCR/AXIS;FBMF/motorola;FBBD/motorola;FBDV/LENNY2;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=3.48,width=1952,height=2055};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; LENNY2 Build/PKQ1.449650.12) [FBAN/Orca-Android;FBAV/318.0.0.5.231;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/3333977641;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/LENNY2;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=3.36,width=2594,height=3724};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 6; Mi Note 2 Build/QP1A.791621.13) [FBAN/Orca-Android;FBAV/364.0.0.25.162;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/3538447411;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/Mi Note 2;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=2.29,width=2318,height=2521};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; LAVA V5 M Build/SP1A.180839.7) [FBAN/Orca-Android;FBAV/297.0.0.12.129;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/2525979752;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/LAVA V5 M;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=2.35,width=1571,height=3200};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; LENNY2 Build/RKQ1.221346.19) [FBAN/Orca-Android;FBAV/459.0.0.30.133;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/2340043562;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/LENNY2;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=2.14,width=2234,height=1327};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; MI NOTE LTE Build/SKQ1.595575.2) [FBAN/Orca-Android;FBAV/394.0.0.13.210;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/2642667167;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/MI NOTE LTE;FBSV/9;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.21,width=1833,height=1308};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 14; LG-H630D Build/QP1A.562333.8) [FBAN/Orca-Android;FBAV/221.0.0.1.215;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/1415379329;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/LG-H630D;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=3.12,width=1292,height=3739};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 6; RMX2030 Build/PPR1.885192.1) [FBAN/Orca-Android;FBAV/487.0.0.37.287;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/3633741054;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/RMX2030;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=2.2,width=1925,height=2944};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; ONEPLUS A6013 Build/TP1A.769957.11) [FBAN/Orca-Android;FBAV/315.0.0.27.128;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/2254694412;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/ONEPLUS A6013;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=3.22,width=1591,height=2748};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; Primo EM2 Build/QKQ1.149351.15) [FBAN/Orca-Android;FBAV/407.0.0.49.200;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/2485746393;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/Primo EM2;FBSV/7;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.15,width=1913,height=1225};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; LAVA V5 M Build/OPM1.805246.6) [FBAN/Orca-Android;FBAV/360.0.0.24.179;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/2971905278;FBCR/WIFI;FBMF/Hisense;FBBD/Hisense;FBDV/LAVA V5 M;FBSV/5;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.31,width=1243,height=2383};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 4 Build/PKQ1.719466.2) [FBAN/Orca-Android;FBAV/386.0.0.26.239;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/3479326471;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/Redmi 4;FBSV/3;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.0,width=1981,height=2159};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; itel A21 Build/QKQ1.231523.1) [FBAN/Orca-Android;FBAV/244.0.0.49.213;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/1487132490;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/itel A21;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=1.3,width=2770,height=3810};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; Nokia 2 Build/SKQ1.928428.6) [FBAN/Orca-Android;FBAV/247.0.0.31.240;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/1231816459;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/Nokia 2;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=2.16,width=2911,height=2223};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; RMX2030 Build/SP1A.956441.13) [FBAN/Orca-Android;FBAV/400.0.0.23.256;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/2643238666;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/RMX2030;FBSV/4;FBCA/arm64-v8a:null;FBDM/{density=1.15,width=2497,height=2458};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; Mi Note 2 Build/RKQ1.480084.8) [FBAN/Orca-Android;FBAV/479.0.0.25.131;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/3348694254;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/Mi Note 2;FBSV/4;FBCA/arm64-v8a:null;FBDM/{density=2.45,width=1266,height=1785};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 4; Primo R5 Plus Build/PPR1.794089.6) [FBAN/Orca-Android;FBAV/268.0.0.17.118;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/2603487291;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/Primo R5 Plus;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=1.16,width=2121,height=3709};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; KFDOWI Build/PKQ1.761618.19) [FBAN/Orca-Android;FBAV/294.0.0.34.150;FBPN/com.facebook.orca;FBLC/en_US;FBBV/2640176995;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/KFDOWI;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.32,width=2081,height=3672};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; Pixel Tablet Build/SKQ1.666098.1) [FBAN/Orca-Android;FBAV/412.0.0.26.140;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/2399901501;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/Pixel Tablet;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.34,width=1267,height=3980};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; Primo EM2 Build/OPM1.562739.3) [FBAN/Orca-Android;FBAV/408.0.0.35.165;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/690986693;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/Primo EM2;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.50,width=2198,height=2985};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 6; GT-S6102 Build/RKQ1.203708.11) [FBAN/Orca-Android;FBAV/346.0.0.32.244;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/1041186124;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/GT-S6102;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.5,width=1632,height=3591};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; SM-E7000 Build/QP1A.135916.20) [FBAN/Orca-Android;FBAV/443.0.0.9.131;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/2037180172;FBCR/WIFI;FBMF/Hisense;FBBD/Hisense;FBDV/SM-E7000;FBSV/3;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.29,width=1424,height=1343};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; SAMSUNG SM-J210F Build/SP1A.287546.19) [FBAN/Orca-Android;FBAV/429.0.0.12.178;FBPN/com.facebook.orca;FBLC/en_US;FBBV/3229344038;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/SAMSUNG SM-J210F;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.32,width=1644,height=3865};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; INTEX AQUA LIONS E3 Build/SP1A.660835.0) [FBAN/Orca-Android;FBAV/313.0.0.49.252;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/681700584;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/INTEX AQUA LIONS E3;FBSV/3;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.17,width=1320,height=3543};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; SM-N960U Build/RP1A.694354.3) [FBAN/Orca-Android;FBAV/246.0.0.48.109;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/1420299026;FBCR/WIFI;FBMF/samsung;FBBD/samsung;FBDV/SM-N960U;FBSV/9;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.37,width=1707,height=3914};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; MGA-LX3 Build/OPM1.470861.15) [FBAN/Orca-Android;FBAV/294.0.0.16.211;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/1440952661;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/MGA-LX3;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=1.16,width=1354,height=2429};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; SM-J600G Build/RP1A.294677.20) [FBAN/Orca-Android;FBAV/429.0.0.19.169;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/2619564967;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/SM-J600G;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=1.7,width=2828,height=3230};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; HUAWEI VNS-L31 Build/QKQ1.989604.12) [FBAN/Orca-Android;FBAV/317.0.0.11.106;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/2763178358;FBCR/AXIS;FBMF/motorola;FBBD/motorola;FBDV/HUAWEI VNS-L31;FBSV/9;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.27,width=1839,height=2183};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 7; Redmi 5 Plus Build/OPM1.712866.18) [FBAN/Orca-Android;FBAV/257.0.0.40.179;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/2300625349;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/Redmi 5 Plus;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.35,width=2267,height=2123};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; Infinix X5515F Build/TP1A.623417.9) [FBAN/Orca-Android;FBAV/206.0.0.17.240;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/2787893072;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/Infinix X5515F;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.18,width=1235,height=1885};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; Primo EM2 Build/SP1A.961793.2) [FBAN/Orca-Android;FBAV/408.0.0.29.269;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/2452751907;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/Primo EM2;FBSV/9;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.11,width=1726,height=3843};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; LG-H630D Build/RKQ1.785411.11) [FBAN/Orca-Android;FBAV/376.0.0.5.108;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/340506608;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/LG-H630D;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=1.8,width=1398,height=3176};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; RMX1945 Build/PKQ1.252901.13) [FBAN/Orca-Android;FBAV/482.0.0.13.264;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/741972813;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/RMX1945;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.26,width=2326,height=2471};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; Redmi 4 Build/TP1A.502530.17) [FBAN/Orca-Android;FBAV/456.0.0.37.282;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/3743592071;FBCR/AXIS;FBMF/motorola;FBBD/motorola;FBDV/Redmi 4;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=1.50,width=2018,height=2141};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; KFDOWI Build/OPM1.644697.14) [FBAN/Orca-Android;FBAV/437.0.0.18.227;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/1770014053;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/KFDOWI;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.25,width=2786,height=1382};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 7; itel A21 Build/RKQ1.122933.1) [FBAN/Orca-Android;FBAV/331.0.0.46.271;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/3089815277;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/itel A21;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=1.15,width=1923,height=3341};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 13; OPPO A83 Build/QKQ1.293724.9) [FBAN/Orca-Android;FBAV/291.0.0.19.141;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/115339922;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/OPPO A83;FBSV/4;FBCA/arm64-v8a:null;FBDM/{density=1.26,width=2855,height=3217};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; TECNO L8 Lite Build/RKQ1.540666.19) [FBAN/Orca-Android;FBAV/371.0.0.12.182;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/2664136811;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/TECNO L8 Lite;FBSV/7;FBCA/arm64-v8a:null;FBDM/{density=3.7,width=2089,height=1162};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 14; F92 E 5G Build/QKQ1.744327.17) [FBAN/Orca-Android;FBAV/351.0.0.44.113;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/3399488681;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/F92 E 5G;FBSV/6;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.36,width=1549,height=3340};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 7; Redmi 4 Build/TP1A.592980.7) [FBAN/Orca-Android;FBAV/267.0.0.6.290;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/1596139203;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/Redmi 4;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=3.23,width=2408,height=3647};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; MI NOTE LTE Build/QP1A.231047.9) [FBAN/Orca-Android;FBAV/287.0.0.34.202;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/1907392982;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/MI NOTE LTE;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.45,width=2114,height=2192};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; Redmi 5 Plus Build/RP1A.202698.4) [FBAN/Orca-Android;FBAV/199.0.0.26.126;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/1061770289;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/Redmi 5 Plus;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.0,width=2808,height=1824};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; G61S Build/QKQ1.637146.3) [FBAN/Orca-Android;FBAV/385.0.0.33.177;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/2593543555;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/G61S;FBSV/5;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.20,width=1320,height=2976};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; F92 E 5G Build/SKQ1.149912.12) [FBAN/Orca-Android;FBAV/396.0.0.16.217;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/1819861765;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/F92 E 5G;FBSV/9;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.39,width=2028,height=2584};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 7; Redmi 4 Build/RP1A.509057.15) [FBAN/Orca-Android;FBAV/421.0.0.41.287;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/398454913;FBCR/WIFI;FBMF/Lenovo;FBBD/Lenovo;FBDV/Redmi 4;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=3.15,width=1635,height=3495};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; LENNY2 Build/SKQ1.855307.7) [FBAN/Orca-Android;FBAV/384.0.0.32.258;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/3151165082;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/LENNY2;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=1.2,width=2853,height=1650};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; Nokia 2 Build/RKQ1.683360.5) [FBAN/Orca-Android;FBAV/402.0.0.47.145;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/3362236954;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/Nokia 2;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.38,width=1701,height=1502};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; HPPL60A Build/TP1A.658154.1) [FBAN/Orca-Android;FBAV/228.0.0.35.102;FBPN/com.facebook.orca;FBLC/ru_RU;FBBV/2399447841;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/HPPL60A;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.4,width=2303,height=1422};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 4; Moto C Plus Build/PKQ1.242249.4) [FBAN/Orca-Android;FBAV/470.0.0.15.263;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/2462976869;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/Moto C Plus;FBSV/7;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.19,width=1993,height=1099};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 4; SM-N960U Build/SP1A.294489.17) [FBAN/Orca-Android;FBAV/415.0.0.37.271;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/1349961621;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/SM-N960U;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.18,width=1270,height=2796};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 12; DUB-LX1 Build/QKQ1.149062.7) [FBAN/Orca-Android;FBAV/253.0.0.6.256;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/699834274;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/DUB-LX1;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=2.10,width=2094,height=3246};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 4; QMobile i6 Metal ONE Build/SKQ1.123097.13) [FBAN/Orca-Android;FBAV/288.0.0.46.295;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/2112149081;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/QMobile i6 Metal ONE;FBSV/7;FBCA/arm64-v8a:null;FBDM/{density=2.37,width=1906,height=2594};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; Redmi 4A Build/RKQ1.181147.3) [FBAN/Orca-Android;FBAV/209.0.0.29.170;FBPN/com.facebook.orca;FBLC/id_ID;FBBV/1391678955;FBCR/AXIS;FBMF/samsung;FBBD/samsung;FBDV/Redmi 4A;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.17,width=1477,height=3156};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; SAMSUNG SM-J210F Build/QKQ1.307954.5) [FBAN/Orca-Android;FBAV/294.0.0.13.163;FBPN/com.facebook.orca;FBLC/en_US;FBBV/833649544;FBCR/WIFI;FBMF/Hisense;FBBD/Hisense;FBDV/SAMSUNG SM-J210F;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=2.49,width=2527,height=2898};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; G61S Build/RP1A.761327.15) [FBAN/Orca-Android;FBAV/417.0.0.47.278;FBPN/com.facebook.orca;FBLC/pt_PT;FBBV/3293596223;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/G61S;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.1,width=2484,height=1122};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; Infinix X5515F Build/OPM1.450369.15) [FBAN/Orca-Android;FBAV/446.0.0.14.262;FBPN/com.facebook.orca;FBLC/hi_IN;FBBV/634873419;FBCR/AXIS;FBMF/OnePlus;FBBD/OnePlus;FBDV/Infinix X5515F;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=1.31,width=2379,height=3916};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; LG-H630D Build/OPM1.993728.14) [FBAN/Orca-Android;FBAV/498.0.0.14.240;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/2811612567;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/LG-H630D;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=2.23,width=1712,height=2540};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 14; Lenovo A7010a48 Build/PPR1.836783.3) [FBAN/Orca-Android;FBAV/471.0.0.19.264;FBPN/com.facebook.orca;FBLC/cs_CZ;FBBV/535744654;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/Lenovo A7010a48;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=1.11,width=2249,height=2491};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; HUAWEI VNS-L31 Build/TP1A.508963.8) [FBAN/Orca-Android;FBAV/251.0.0.36.244;FBPN/com.facebook.orca;FBLC/en_US;FBBV/3246879798;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/HUAWEI VNS-L31;FBSV/5;FBCA/arm64-v8a:null;FBDM/{density=1.26,width=2145,height=3594};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; HUAWEI CAZ-AL10 Build/RP1A.457131.2) [FBAN/Orca-Android;FBAV/276.0.0.42.110;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/3344497854;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/HUAWEI CAZ-AL10;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=1.40,width=2329,height=1669};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 5; HPPL60A Build/PKQ1.724302.1) [FBAN/Orca-Android;FBAV/330.0.0.3.121;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/1630677123;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/HPPL60A;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=1.5,width=1883,height=2619};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; RX7 Mini Build/RP1A.644095.14) [FBAN/Orca-Android;FBAV/237.0.0.15.204;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/786012147;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/RX7 Mini;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.44,width=1305,height=1257};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 8; SM-J600G Build/OPM1.778392.6) [FBAN/Orca-Android;FBAV/467.0.0.22.110;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/2977444297;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/SM-J600G;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=2.38,width=2592,height=3598};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; SM-N960U Build/SKQ1.734659.8) [FBAN/Orca-Android;FBAV/296.0.0.43.259;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/1650755283;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/SM-N960U;FBSV/8;FBCA/arm64-v8a:null;FBDM/{density=1.3,width=2123,height=2760};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 10; RMX1945 Build/RKQ1.996248.0) [FBAN/Orca-Android;FBAV/237.0.0.4.142;FBPN/com.facebook.orca;FBLC/ it_IT;FBBV/3158620070;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/RMX1945;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.0,width=1412,height=1126};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 1; Redmi 5 Plus Build/PPR1.177378.8) [FBAN/Orca-Android;FBAV/223.0.0.11.155;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/1627935121;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/Redmi 5 Plus;FBSV/7;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.10,width=2910,height=2290};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 3; Mi Note 2 Build/PPR1.277938.5) [FBAN/Orca-Android;FBAV/382.0.0.23.205;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/1451868828;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/Mi Note 2;FBSV/5;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.17,width=2231,height=2630};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 2; LG-H630D Build/QP1A.853871.10) [FBAN/Orca-Android;FBAV/415.0.0.31.105;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/931674015;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/LG-H630D;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=1.27,width=1196,height=3126};FB_FW/1;] FBBK/1'
+
+Dalvik/2.1.0 (Linux; U; Android 11; LAVA LF9810_2GB Build/SP1A.776636.1) [FBAN/Orca-Android;FBAV/251.0.0.14.103;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/1344497955;FBCR/AXIS;FBMF/Amazon;FBBD/Amazon;FBDV/LAVA LF9810_2GB;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=3.21,width=1382,height=2889};FB_FW/1;] FBBK/1'
+Dalvik/2.1.0 (Linux; U; Android 2; TECNO L8 Lite Build/PPR1.894727.16) [FBAN/Orca-Android;FBAV/331.0.0.45.214;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/2876771680;FBCR/AXIS;FBMF/Hisense;FBBD/Hisense;FBDV/TECNO L8 Lite;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.42,width=1170,height=3358};FB_FW/1;] FBBK/1'
+Dalvik/2.1.0 (Linux; U; Android 8; DUB-LX1 Build/QKQ1.750821.6) [FBAN/Orca-Android;FBAV/284.0.0.31.223;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/3085642335;FBCR/WIFI;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/DUB-LX1;FBSV/3;FBCA/arm64-v8a:null;FBDM/{density=3.44,width=1835,height=1163};FB_FW/1;] FBBK/1'
+Dalvik/2.1.0 (Linux; U; Android 9; LM-X440IM Build/QKQ1.400757.17) [FBAN/Orca-Android;FBAV/233.0.0.3.112;FBPN/com.facebook.orca;FBLC/nl_NL;FBBV/2254500454;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/LM-X440IM;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.2,width=2190,height=2327};FB_FW/1;] FBBK/1'
+Dalvik/2.1.0 (Linux; U; Android 4; G61S Build/PKQ1.978431.19) [FBAN/Orca-Android;FBAV/428.0.0.18.160;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/3696682074;FBCR/WIFI;FBMF/xiaomi;FBBD/xiaomi;FBDV/G61S;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.50,width=1979,height=3503};FB_FW/1;] FBBK/1'
+Dalvik/2.1.0 (Linux; U; Android 6; LAVA LF9810_2GB Build/OPM1.367662.18) [FBAN/Orca-Android;FBAV/215.0.0.1.131;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/2093065196;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/LAVA LF9810_2GB;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.9,width=2656,height=3004};FB_FW/1;] FBBK/1'
+Dalvik/2.1.0 (Linux; U; Android 11; SM-E7000 Build/OPM1.704505.10) [FBAN/Orca-Android;FBAV/224.0.0.6.138;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/1336312458;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/SM-E7000;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=2.31,width=1092,height=3369};FB_FW/1;] FBBK/1'
+Dalvik/2.1.0 (Linux; U; Android 6; itel A21 Build/OPM1.900997.11) [FBAN/Orca-Android;FBAV/340.0.0.4.281;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/1695949123;FBCR/AXIS;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/itel A21;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=1.26,width=1124,height=1062};FB_FW/1;] FBBK/1'
+Dalvik/2.1.0 (Linux; U; Android 3; SAMSUNG SM-J210F Build/PKQ1.558555.3) [FBAN/Orca-Android;FBAV/232.0.0.40.237;FBPN/com.facebook.orca;FBLC/he_IL;FBBV/2032471592;FBCR/AXIS;FBMF/Lenovo;FBBD/Lenovo;FBDV/SAMSUNG SM-J210F;FBSV/9;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.4,width=1295,height=1384};FB_FW/1;] FBBK/1'
+Dalvik/2.1.0 (Linux; U; Android 9; itel A21 Build/TP1A.427102.4) [FBAN/Orca-Android;FBAV/490.0.0.18.297;FBPN/com.facebook.orca;FBLC/en_PK;FBBV/2818889530;FBCR/WIFI;FBMF/OnePlus;FBBD/OnePlus;FBDV/itel A21;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.12,width=1857,height=3223};FB_FW/1;] FBBK/1'
+Dalvik/2.1.0 (Linux; U; Android 13; OPPO A83 Build/TP1A.149293.18) [FBAN/Orca-Android;FBAV/391.0.0.49.242;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/1174296217;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/OPPO A83;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.46,width=1315,height=2137};FB_FW/1;] FBBK/1'
+Dalvik/2.1.0 (Linux; U; Android 8; SM-J600G Build/OPM1.987828.18) [FBAN/Orca-Android;FBAV/445.0.0.2.294;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/1368148964;FBCR/WIFI;FBMF/motorola;FBBD/motorola;FBDV/SM-J600G;FBSV/6;FBCA/arm64-v8a:null;FBDM/{density=1.19,width=2572,height=2813};FB_FW/1;] FBBK/1'
+Dalvik/2.1.0 (Linux; U; Android 3; MGA-LX3 Build/RP1A.354768.18) [FBAN/Orca-Android;FBAV/306.0.0.25.251;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/3096426141;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/MGA-LX3;FBSV/7;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.28,width=1500,height=1296};FB_FW/1;] FBBK/1'
+Dalvik/2.1.0 (Linux; U; Android 9; SAMSUNG SM-J210F Build/PPR1.977935.14) [FBAN/Orca-Android;FBAV/283.0.0.35.159;FBPN/com.facebook.orca;FBLC/lt_LT;FBBV/1441407060;FBCR/AXIS;FBMF/xiaomi;FBBD/xiaomi;FBDV/SAMSUNG SM-J210F;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=2.22,width=2461,height=2897};FB_FW/1;] FBBK/1'
+Dalvik/2.1.0 (Linux; U; Android 10; SM-N960U Build/SKQ1.237769.13) [FBAN/Orca-Android;FBAV/217.0.0.7.284;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/205077058;FBCR/WIFI;FBMF/Amazon;FBBD/Amazon;FBDV/SM-N960U;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.33,width=1575,height=1539};FB_FW/1;] FBBK/1'
+
