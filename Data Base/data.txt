@@ -1,2 +1,1 @@
-
 [FBAN/FB4A;FBAV/"+str(random.randint(111,555))+'.0.0.'+str(random.randrange(9,300))+str(random.randint(11,555)) +";FBBV/"+str(random.randint(1111111,9999999))+";[FBAN/FB4A;FBAV/181.92.85.27;FBBV/59224467;FBDM/{density=3.5,width=1071,height=1319};FBLC/en_US;FBRV/94908280;FBCR/null;FBMF/lge;FBBD/lge;FBPN/com.facebook.katana;FBDV/LGE;FBSV/4.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]
